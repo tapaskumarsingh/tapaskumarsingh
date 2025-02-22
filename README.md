@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @tapaskumarsingh
-- 👀 I’m interested in Web Developement.
-- 🌱 I’m currently learning Web Developement.
+- 👀 I’m interested in Full-Stack Developement.
+- 🌱 I’m currently learning Full-Stack Developement.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 tapassinghrajput19@gmail.com
 
 <!---
 tapaskumarsingh/tapaskumarsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
